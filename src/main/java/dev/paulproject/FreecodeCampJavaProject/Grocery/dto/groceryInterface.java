@@ -1,2 +1,4 @@
-package dev.paulproject.FreecodeCampJavaProject.Grocery.dto;public interface groceryInterface {
+package dev.paulproject.FreecodeCampJavaProject.Grocery.dto;
+
+public interface groceryInterface {
 }

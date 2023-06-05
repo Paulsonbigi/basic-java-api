@@ -1,5 +1,7 @@
-package dev.paulproject.FreecodeCampJavaProject;
+package dev.paulproject.FreecodeCampJavaProject.Movie.Contoller;
 
+import dev.paulproject.FreecodeCampJavaProject.Movie.Model.Movie;
+import dev.paulproject.FreecodeCampJavaProject.Movie.Service.MoviesService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

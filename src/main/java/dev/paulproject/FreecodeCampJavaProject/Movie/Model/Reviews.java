@@ -1,4 +1,4 @@
-package dev.paulproject.FreecodeCampJavaProject;
+package dev.paulproject.FreecodeCampJavaProject.Movie.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

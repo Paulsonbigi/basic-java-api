@@ -1,4 +1,4 @@
-package dev.paulproject.FreecodeCampJavaProject;
+package dev.paulproject.FreecodeCampJavaProject.Movie.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -10,7 +10,7 @@ import org.springframework.data.mongodb.core.mapping.DocumentReference;
 
 import java.util.List;
 
-@Document(collation = "Movies")
+@Document(collection = "Movies")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

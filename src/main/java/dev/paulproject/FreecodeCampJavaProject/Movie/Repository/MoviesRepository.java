@@ -1,5 +1,5 @@
-package dev.paulproject.FreecodeCampJavaProject;
-import org.bson.types.ObjectId;
+package dev.paulproject.FreecodeCampJavaProject.Movie.Repository;
+import dev.paulproject.FreecodeCampJavaProject.Movie.Model.Movie;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

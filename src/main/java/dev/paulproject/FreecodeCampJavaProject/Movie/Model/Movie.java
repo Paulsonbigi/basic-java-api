@@ -26,4 +26,12 @@ public class Movie {
     private List<String> backdrops;
     @DocumentReference
     private List<Reviews> reviewId;
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public void setGenres(List<String> genres) {
+        this.genres = genres;
+    }
 }
